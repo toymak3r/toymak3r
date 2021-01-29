@@ -1,6 +1,3 @@
-# Hail!
-
-## Some Stats
 [![CoolerVoid's github stats](https://github-readme-stats.vercel.app/api?username=Toymak3r&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toymak3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
