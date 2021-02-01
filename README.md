@@ -4,4 +4,5 @@
 
 ## Other Stuff 
 
-[ME&U Cast](https://www.menu.games) - Game Reviews, Podcast and Opinion Articles
+[ME&U Cast](https://www.menu.games) - Game Reviews, Podcast and Opinion Articles (PT-BR)
+[Medium Articles](https://edwardfacundo.medium.com/) - Comics, Movies and Music Reviews (PT-BR)
