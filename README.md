@@ -6,4 +6,6 @@
 
 [ME&U Cast](https://www.menu.games) - Game Reviews, Podcast and Opinion Articles (PT-BR)
 
-[Medium Articles](https://edwardfacundo.medium.com/) - Comics, Movies and Music Reviews (PT-BR)
+[Boca do Inferno](https://bocadoinferno.com.br/author/ed-toy-facundo/) - Comics, Movies and Music Reviews (PT-BR)
+
+[From Abyss Media](https://www.fromabyss.com) - Consulting and PR specialist on horror.
