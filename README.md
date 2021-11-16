@@ -4,8 +4,8 @@
 
 ## Other Stuff 
 
-[ME&U Cast](https://www.menu.games) - Game Reviews, Podcast and Opinion Articles (PT-BR)
+[Ludoravia PodCast](https://anchor.fm/ludoravia) - Podcast about gamedevelopment and topics related (PT-BR)
 
-[Boca do Inferno](https://bocadoinferno.com.br/author/ed-toy-facundo/) - Comics, Movies and Music Reviews (PT-BR)
+[Boca do Inferno](https://bocadoinferno.com.br/author/ed-toy-facundo/) - News, Comics, Movies Reviews (PT-BR)
 
-[From Abyss Media](https://www.fromabyss.com) - Consulting and PR specialist on horror.
+[From Abyss Media](https://www.fromabyss.com) - Media PR.
