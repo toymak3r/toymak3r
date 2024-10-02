@@ -4,6 +4,10 @@
 
 ## Projects 
 
+[Do Abismo PodCast](https://anchor.fm/doabismo) - Podcast about the horror genre in your sort of medias (PT-BR)
+
+[Baixa Resolução PodCast]([https://anchor.fm/ludoravia](https://anchor.fm/baixaresolucao) - Podcast about technology and topics related with some acid tasty (PT-BR)
+
 [Ludoravia PodCast](https://anchor.fm/ludoravia) - Podcast about gamedevelopment and topics related (PT-BR)
 
 [Boca do Inferno](https://bocadoinferno.com.br/author/ed-toy-facundo/) - News, Comics, Movies Reviews (PT-BR)
