@@ -1,4 +1,4 @@
-# Toymak3r 👋
+# Edward 'Toy' Facundo 👋
 
 **Full-stack developer focused on creative projects, games, and media.**  
 Building fresh, expressive software and sharing the journey in public.
