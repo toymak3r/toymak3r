@@ -24,7 +24,7 @@ Building fresh, expressive software and sharing the journey in public.
 ## GitHub Activity
 [![Toymak3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toymak3r&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toymak3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toymak3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect
 - Open to collaborations on creative dev projects
